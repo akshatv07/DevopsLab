@@ -1,1 +1,7 @@
-print("hiiiiii")
+print("HPC 5 credits /n")
+print("SPM 3 credits ")
+print("Devops 3 credits")
+print("Career skills 1 credit")
+print("Communication Skills 1 credit")
+print("capstone 1 credit")
+print(" UGR 1 credit")
